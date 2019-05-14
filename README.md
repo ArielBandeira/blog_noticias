@@ -3,7 +3,7 @@
 
 Simple web page for a store, with a blog for the company updates.
 
-![alt text](https://github.com/ArielBandeira/site/blob/master/preview.JPG)
+![alt text](https://github.com/ArielBandeira/site/blob/master/images/preview.JPG)
 
 ## Development setup
 The web page is already ready to use, no need to install anything.
